@@ -80,6 +80,7 @@ int main(){
 		sum=sum+sum*15/100;
 		cout<< "Ваша сумма через " << date2 <<" дней: " << sum;
 	}
+	
 	return 0;
 	
 }
